@@ -32,6 +32,9 @@ https://github.com/user-attachments/assets/51521a8a-4c4f-4fad-b51a-32b0457e0282
 
 # How To Install/Use
 
+- Download the latest release
+https://github.com/TylerAtStarboard/AnimationUpdater/releases
+
 - Open the plugin folder in studio
 <img width="217" height="88" alt="image" src="https://github.com/user-attachments/assets/d754dc03-e0eb-4aa2-a3c6-5ddaa812f060" />
 
